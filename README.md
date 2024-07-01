@@ -6,7 +6,7 @@ Here's a README for your GitHub project:
 
 ## Overview
 
-This project is an online job portal application developed using Python and Tkinter for the graphical user interface (GUI). The application features three main modules:
+This project is an online job portal application developed using Python and Tkinter for the graphical user interface (GUI). The application features three main modules:-
 
 1. **Login/Signup Page**
 2. **Job Portal**
